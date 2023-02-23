@@ -1,0 +1,25 @@
+{
+  "name": "ERC20 Tokens",
+  "timestamp": "2023-01-07T10:11:32.219Z",
+  "version": {
+    "major": 5,
+    "minor": 3,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
+  "keywords": [
+    "blockchain",
+    "xswapprotocol",
+    "xswap",
+    "xinfin"
+  ],
+  "tokens": [
+    {
+      "chainId": 80001,
+      "address": "0xa34082CAC5960017B8F073DD763234c519c7718E",
+      "name": "Test Token",
+      "symbol": "TT",
+      "decimals": 18
+    }
+  ]
+}
