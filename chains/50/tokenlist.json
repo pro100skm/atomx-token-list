@@ -1,0 +1,178 @@
+{
+  "name": "XRC20 Tokens",
+  "timestamp": "2023-01-07T10:11:32.219Z",
+  "version": {
+    "major": 5,
+    "minor": 3,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
+  "keywords": [
+    "blockchain",
+    "xswapprotocol",
+    "xswap",
+    "xinfin"
+  ],
+  "tokens": [
+    {
+      "chainId": 50,
+      "address": "0x17476dc3eda45aD916cEAdDeA325B240A7FB259D",
+      "name": "XSwap Treasury Token",
+      "symbol": "XTT",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x17476dc3eda45aD916cEAdDeA325B240A7FB259D/logo.png",
+      "tags": ["farming", "xdcpad", "launchpad"]
+    },
+    {
+      "chainId": 50,
+      "address": "0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68",
+      "name": "XSP Token",
+      "symbol": "XSP",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x36726235dAdbdb4658D33E62a249dCA7c4B2bC68/logo.png",
+      "tags": ["dex", "swap"]
+    },
+    {
+      "chainId": 50,
+      "address": "0x951857744785E80e2De051c32EE7b25f9c458C42",
+      "name": "Wrapped XDC",
+      "symbol": "WXDC",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/assets/0x951857744785E80e2De051c32EE7b25f9c458C42/logo.png",
+      "tags": ["wrapped", "native"]
+    },
+    {
+      "chainId": 50,
+      "address": "0xc280EbcD651d2a0C8D4bb49151062C9eEF55d370",
+      "name": "USPLUS",
+      "symbol": "US+",
+      "decimals": 6
+    },
+    {
+      "chainId": 50,
+      "address": "0x8A3cc832Bb6B255622E92dc9d4611F2A94d200DA",
+      "name": "Wrapped GBEX XDC",
+      "symbol": "GBEX-WXDC",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xb3f18b584263191a33169f6393487e43e9586329",
+      "name": "WadzPay Token",
+      "symbol": "WTK",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x5D5f074837f5d4618B3916ba74De1Bf9662a3fEd",
+      "name": "Storx",
+      "symbol": "SRX",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xFf7412Ea7C8445C46a8254dFB557Ac1E48094391",
+      "name": "Plugin",
+      "symbol": "PLI",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x4826634Fe187Ed3FFb64d77c5C1A67Ba49cc03dE",
+      "name": "BlocksWorkz Token",
+      "symbol": "BLKZ",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x20B59e6C5DeB7d7cEd2CA823c6Ca81dd3f7e9A3A",
+      "name": "Datachain Foundation",
+      "symbol": "DC",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x0E11710AAd67E7427CfbC12c353284C2e335F62c",
+      "name": "PrimeNumbers Token",
+      "symbol": "PRNT",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xd04275E2Fd2875beaade6A80b39A75D4fe267df6",
+      "name": "NOTA",
+      "symbol": "USNOTA",
+      "decimals": 6
+    },
+    {
+      "chainId": 50,
+      "address": "0xD4B5f10D61916Bd6E0860144a91Ac658dE8a1437",
+      "name": "Bridged USDT",
+      "symbol": "xUSDT",
+      "decimals": 6
+    },
+    {
+      "chainId": 50,
+      "address": "0x84fb1a5795858E7296780a7f55C43afa20e9A7Ae",
+      "name": "XDCrystals",
+      "symbol": "GEM",
+      "decimals": 15
+    },
+    {
+      "chainId": 50,
+      "address": "0xb6E57fBB2D44092f75d9da2769FFc788ce931320",
+      "name": "BitcoinX",
+      "symbol": "BTCx",
+      "decimals": 8
+    },
+    {
+      "chainId": 50,
+      "address": "0x1BC20D6B6a4F0d768e1B39D42575fc3cb008E865",
+      "name": "xXList",
+      "symbol": "xXLIST",
+      "decimals": 15
+    },
+    {
+      "chainId": 50,
+      "address": "0x34514748F86A8dA01Ef082306b6d6e738F777f5A",
+      "name": "Globiance Exchange Token",
+      "symbol": "GBEX",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x374a7CE8Fda576a92e3A17c47f47C6B7AEcEF39D",
+      "name": "CHUPACABRA",
+      "symbol": "CHUPA",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x8f9920283470F52128bF11B0c14E798bE704fD15",
+      "name": "Comtech Gold",
+      "symbol": "CGO",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0xB5Fa33923EC3ff7F4B9AB7B4C20B236D31243F77",
+      "name": "Crescite",
+      "symbol": "CRE",
+      "decimals": 18
+    },
+    {
+      "chainId": 50,
+      "address": "0x1eBb2C8a71A9ec59bF558886a8Adf8F4a565814F",
+      "name": "STASIS EURO",
+      "symbol": "EURS",
+      "decimals": 2
+    },
+    {
+      "chainId": 50,
+      "address": "0xd9c714a2d98df7b3eabc3627b124ffb2d811098d",
+      "name": "ShibaInuXDC",
+      "symbol": "ShibaX",
+      "decimals": 10
+    }
+  ]
+}
