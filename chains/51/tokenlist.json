@@ -1,13 +1,13 @@
 {
-  "name": "BEP20 Testnet Tokens",
-  "timestamp": "2023-01-15T12:00:00Z",
+  "name": "Apothem Testnet",
+  "timestamp": "2023-03-15T12:00:00Z",
   "version": {
     "major": 1,
     "minor": 0,
     "patch": 0
   },
   "keywords": [],
-  "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/atomx-token-list/master/chains/51/logo.png",
   "tokens": [
     {
       "chainId": 51,
