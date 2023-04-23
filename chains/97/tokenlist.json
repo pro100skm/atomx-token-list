@@ -29,6 +29,27 @@
       "name": "Shiru",
       "symbol": "SHIRU",
       "decimals": 18
+    },
+    {
+      "chainId": 97,
+      "address": "0x272C98C89988400a9E4fA6f8D7a87C90A3C97045",
+      "name": "DefiX",
+      "symbol": "DFX",
+      "decimals": 18
+    },
+    {
+      "chainId": 97,
+      "address": "0xae13d989daC2f0dEbFf460aC112a837C89BAa7cd",
+      "name": "Wrapped BNB",
+      "symbol": "WBNB",
+      "decimals": 18
+    },
+    {
+      "chainId": 97,
+      "address": "0xaB1a4d4f1D656d2450692D237fdD6C7f9146e814",
+      "name": "Binance USD",
+      "symbol": "BUSD",
+      "decimals": 18
     }
   ]
 }
