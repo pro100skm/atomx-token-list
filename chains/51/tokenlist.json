@@ -29,6 +29,13 @@
       "name": "XSP",
       "symbol": "XSP",
       "decimals": 18
+    },
+    {
+      "chainId": 51,
+      "address": "0xeFB4c84513cf1B463ba76c57A4832e4250170a51",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6
     }
   ]
 }

@@ -19,6 +19,13 @@
       "name": "Test Token",
       "symbol": "TT",
       "decimals": 18
+    },
+    {
+      "chainId": 80001,
+      "address": "0x012894407Afa86B23FA8A2278FD0a4137E23bBC7",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 6
     }
   ]
 }

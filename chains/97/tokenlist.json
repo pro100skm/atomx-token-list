@@ -50,6 +50,13 @@
       "name": "Binance USD",
       "symbol": "BUSD",
       "decimals": 18
+    },
+    {
+      "chainId": 97,
+      "address": "0x6c69CC4f87DB523D39E33Ecd07B3ED9485eBA26f",
+      "name": "USDT",
+      "symbol": "USDT",
+      "decimals": 18
     }
   ]
 }
