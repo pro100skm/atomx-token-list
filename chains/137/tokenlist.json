@@ -1,16 +1,16 @@
 {
-  "name": "Mumbai Testnet",
+  "name": "Polygon",
   "timestamp": "2023-03-07T10:11:32.219Z",
   "version": {
     "major": 1,
     "minor": 1,
     "patch": 0
   },
-  "logoURI": "https://raw.githubusercontent.com/pro100skm/atomx-token-list/master/chains/80001/logo.png",
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/atomx-token-list/master/chains/137/logo.png",
   "keywords": [
     "blockchain",
     "matic",
-    "mumbai"
+    "polygon"
   ],
   "tokens": [
     {
