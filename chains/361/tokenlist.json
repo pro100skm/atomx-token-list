@@ -1,0 +1,37 @@
+{
+  "name": "Theta",
+  "timestamp": "2023-06-01T10:11:32.219Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/atomx-token-list/master/chains/361/logo.png",
+  "keywords": [
+    "blockchain",
+    "theta"
+  ],
+  "tokens": [
+    {
+      "chainId": 361,
+      "address": "0x4dc08b15ea0e10b96c41aec22fab934ba15c983e",
+      "name": "Wrapped TFUEL",
+      "symbol": "WTFUEL",
+      "decimals": 18
+    },
+    {
+      "chainId": 361,
+      "address": "0x1336739b05c7ab8a526d40dcc0d04a826b5f8b03",
+      "name": "TDrop",
+      "symbol": "TDROP",
+      "decimals": 18
+    },
+    {
+      "chainId": 361,
+      "address": "0x46fbf4487fa1b9c70d35bd761c51c360df9459ed",
+      "name": "Lavita",
+      "symbol": "LAVITA",
+      "decimals": 18
+    }
+  ]
+}
