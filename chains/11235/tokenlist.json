@@ -1,9 +1,9 @@
 {
   "name": "HAQQ",
-  "timestamp": "2023-08-02T00:11:24.219Z",
+  "timestamp": "2023-08-02T00:11:46.219Z",
   "version": {
     "major": 1,
-    "minor": 1,
+    "minor": 2,
     "patch": 0
   },
   "logoURI": "https://raw.githubusercontent.com/pro100skm/atomx-token-list/master/chains/11235/logo.png",
@@ -13,6 +13,13 @@
     "haqq"
   ],
   "tokens": [
+    {
+      "chainId": 11235,
+      "address": "0x0E2623CdC5b571e1aBcF997Ab73D932C749dc564",
+      "name": "Wrapped Islamic Coin",
+      "symbol": "WISLM",
+      "decimals": 18
+    },
     {
       "chainId": 11235,
       "address": "0x1AEfD3cF5Bb120A7386f49774ACa87A36046770b",
