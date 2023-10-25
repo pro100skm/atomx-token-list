@@ -1,0 +1,34 @@
+{
+  "name": "Moonbase Alpha",
+  "timestamp": "2023-03-15T12:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 1
+  },
+  "keywords": [],
+  "logoURI": "https://raw.githubusercontent.com/pro100skm/atomx-token-list/master/chains/1287/logo.png",
+  "tokens": [
+    {
+      "chainId": 1287,
+      "address": "0xD909178CC99d318e4D46e7E66a972955859670E1",
+      "name": "Wrapped Ether",
+      "symbol": "WETH",
+      "decimals": 18
+    },
+    {
+      "chainId": 1287,
+      "address": "0xb752E60E8abead5FD6f6b2a25e29359D89858136",
+      "name": "ORB token",
+      "symbol": "ORB",
+      "decimals": 18
+    },
+    {
+      "chainId": 1287,
+      "address": "0xE5dE10C4b744bac6b783fAF8d9B9fDFF14Acc3c9",
+      "name": "USD Coin (Wormhole)",
+      "symbol": "USDC",
+      "decimals": 6
+    }
+  ]
+}
