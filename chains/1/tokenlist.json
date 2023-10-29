@@ -1,0 +1,25 @@
+{
+  "name": "ERC20 Tokens",
+  "timestamp": "2023-09-07T10:11:32.219Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "",
+  "keywords": [
+    "blockchain",
+    "ethereum"
+  ],
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xc0d1C684BD9C36e0CfD0BE9a39C57AabEE8c0804",
+      "name": "World Freedom",
+      "symbol": "WF",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/pro100skm/xdc-token-list/master/chains/1/assets/0xc0d1C684BD9C36e0CfD0BE9a39C57AabEE8c0804/logo.png",
+      "tags": ["freedom"]
+    }
+  ]
+}
