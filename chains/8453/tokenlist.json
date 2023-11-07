@@ -4,7 +4,7 @@
   "version": {
     "major": 1,
     "minor": 0,
-    "patch": 1
+    "patch": 2
   },
   "keywords": [],
   "logoURI": "https://raw.githubusercontent.com/pro100skm/atomx-token-list/master/chains/8453/logo.png",
@@ -23,6 +23,14 @@
       "symbol": "USDC",
       "decimals": 6
     },
+    {
+      "chainId": 8453,
+      "address": "0xd9aAEc86B65D86f6A7B5B1b0c42FFA531710b6CA",
+      "name": "USD Base Coin",
+      "symbol": "USDbC",
+      "decimals": 6
+    },
+
     {
       "chainId": 8453,
       "address": "0x50c5725949A6F0c72E6C4a641F24049A917DB0Cb",
