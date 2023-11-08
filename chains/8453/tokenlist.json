@@ -11,6 +11,34 @@
   "tokens": [
     {
       "chainId": 8453,
+      "address": "0x2dAD3a13ef0C6366220f989157009e501e7938F8",
+      "name": "Extra Finance",
+      "symbol": "EXTRA",
+      "decimals": 18
+    },
+    {
+      "chainId": 8453,
+      "address": "0x940181a94A35A4569E4529A3CDfB74e38FD98631",
+      "name": "Aerodrome",
+      "symbol": "AERO",
+      "decimals": 18
+    },
+    {
+      "chainId": 8453,
+      "address": "0x9E53e88dCff56d3062510A745952DEC4cEFDff9E",
+      "name": "Basic Dog Meme",
+      "symbol": "DOG",
+      "decimals": 18
+    },
+    {
+      "chainId": 8453,
+      "address": "0xbf1aeA8670D2528E08334083616dD9C5F3B087aE",
+      "name": "Mai Stablecoin",
+      "symbol": "MAI",
+      "decimals": 18
+    },
+    {
+      "chainId": 8453,
       "address": "0x4200000000000000000000000000000000000006",
       "name": "Wrapped Ether",
       "symbol": "WETH",
